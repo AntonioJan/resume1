@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,100&display=swap');
+
+body {
+    font-size: 20px;
+    font-family: 'Mistral';
+    font-weight: 600;
+    letter-spacing: 0.1cm;
+    text-decoration: underline;
+    font-style: oblique;
+}
+
+.list li {
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.hobbi, .sport, .need {
+    padding-left: 100px;
+}
+
+ol, ul {
+    padding-left: 100px;
+}
+
+table {
+    padding-left: 100px;
+}
