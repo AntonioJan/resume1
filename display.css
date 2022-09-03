@@ -33,3 +33,7 @@ a {
 img {
     min-width: 300px;
 }
+
+table {
+    max-width: 500px;
+}
